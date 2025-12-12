@@ -1,87 +1,74 @@
-<h1 align="center">👋 Hola, soy <strong>Alejandro</strong></h1>
-<h3 align="center">Informática | Redes | Ciberseguridad | Cloud | Automatización</h3>
+<h1 align="center">Alejandro | Ingeniero de Ciberseguridad & Administrador de Sistemas</h1>
+<h3 align="center">🛡️ Blue Team | Infraestructura Windows Server | Redes Cisco | Automatización ⚙️</h3>
 
 ---
 
-## 🧑‍💻 Sobre mí
-Soy estudiante de Ingeniería de Ciberseguridad con experiencia práctica en **informática**, **redes**, **administración de sistemas**, **ciberseguridad defensiva (Blue Team)** y **seguridad en la nube**.  
-Actualmente realizo prácticas profesionales donde aplico soluciones reales relacionadas con soporte, redes, hardening, seguridad y monitoreo.
+## 🧑‍💻 Resumen Ejecutivo
 
-Siempre estoy creando laboratorios, aprendiendo nuevas tecnologías y documentando mis proyectos para reforzar mis habilidades.
+Soy egresado de Ingeniería de Ciberseguridad con **experiencia práctica** en la **administración de infraestructuras críticas** y la **defensa proactiva (Blue Team)**.
 
----
+Durante mis prácticas profesionales, he aplicado soluciones reales en:
+* **Hardening y Administración de Sistemas** (Windows Server y Linux).
+* **Seguridad Perimetral y Monitoreo (SIEM).**
+* **Diseño e Implementación de Redes (Cisco / MikroTik).**
 
-## 🚀 Tecnologías y herramientas
-
-### 🖥️ **Sistemas**
-- 🪟 Windows 10/11  
-- 🏢 Windows Server (AD DS, GPO, DNS, DHCP)  
-- 🐧 Linux (RHEL, Rocky, Ubuntu)
-
-### 🌐 **Redes**
-- 🛰️ Cisco (VLANs, Routing, Switching)  
-- 📡 MikroTik  
-- 🔍 Wireshark
-
-### 🔐 **Ciberseguridad**
-- 🛡️ FortiGate  
-- 📊 Wazuh (SIEM)  
-- 🗂️ Hardening Windows / Linux  
-- 🎯 Nmap  
-- 🔥 Firewall & reglas de seguridad
-
-### ☁️ **Cloud**
-- AWS (IAM, CloudWatch, WAF, VPC) — en aprendizaje
-
-### ⚙️ **Programación / Automatización**
-- 🐍 Python  
-- 🔧 Bash  
-- 🖥️ PowerShell  
+Mi enfoque se centra en **automatizar tareas** (Python/PowerShell) y documentar proyectos de infraestructura para garantizar la **mantenibilidad y escalabilidad** de los sistemas.
 
 ---
 
-## 📂 Proyectos Destacados
+## 🛠️ Stack Tecnológico y Competencias Clave
 
-### 🔒 **Hardening de Servidores Linux (RHEL 9)**
-- Automatización de actualizaciones  
-- Revisión de discos y logs  
-- Configuración de SELinux  
-- Montaje de storage por fibra  
-- Reglas de firewall y servicios seguros
+Mi experiencia abarca la administración de sistemas operativos hasta la seguridad en la nube y la automatización.
 
-### 📡 **Laboratorio de Redes con VLANs (Cisco)**
-- Segmentación de red  
-- Router-on-a-stick  
-- DHCP  
-- Pruebas de conectividad
+### 🏢 **Administración de Sistemas & Cloud**
+| Área | Tecnologías | Foco de Competencia |
+| :--- | :--- | :--- |
+| **Windows Server** | AD DS, GPO, DNS, DHCP, Windows 10/11 | Implementación de dominios, Hardening y gestión de políticas (GPO). |
+| **Linux** | RHEL, Rocky, Ubuntu, SELinux | Administración de servicios, montaje de Storage y seguridad (Hardening). |
+| **Cloud (AWS)** | IAM, VPC, CloudWatch, WAF | Principios de seguridad en la nube y gestión de recursos. |
 
-### 🛡️ **Monitoreo con Wazuh (SIEM)**
-- Reglas personalizadas  
-- Agentes Windows y Linux  
-- Dashboards y alertas
+### 🌐 **Redes y Seguridad Perimetral**
+| Área | Tecnologías | Foco de Competencia |
+| :--- | :--- | :--- |
+| **Redes** | Cisco (VLANs, R-O-S, Switching), MikroTik | Diseño, segmentación y troubleshooting de redes. |
+| **Ciberseguridad** | FortiGate, Firewall, Hardening | Creación de reglas de seguridad, gestión de UTM y defensa de perímetro. |
+| **Monitoreo** | Wazuh (SIEM), Wireshark | Análisis de tráfico, reglas de detección de amenazas, SIEM/Log Analysis. |
 
-### 🐍 **Automatización con Python**
-- Scripts básicos  
-- CRUD con SQLite/MySQL  
-- Cifrado AES  
-- Automatización de tareas repetitivas
-
-### ☁️ **Seguridad en la nube (AWS)**
-- Configuración de IAM  
-- Monitoreo con CloudWatch  
-- Protección con AWS WAF  
-- Reglas de seguridad en VPC
+### ⚙️ **Automatización y Scripting**
+* **Python 🐍:** Desarrollo de scripts para CRUD (SQLite/MySQL), cifrado AES y automatización de tareas operativas.
+* **PowerShell / Bash:** Automatización de la administración de sistemas (e.g., gestión de usuarios en Windows Server, mantenimiento en Linux).
 
 ---
 
-## 📫 Contacto
-- 📧 **Email:** *tu-correo-aquí*  
-- 💼 **LinkedIn:** *tu-link-aquí*  
-- 🌐 Próximamente: **Mi página web personal**
+## 📂 Proyectos Destacados (Portafolio)
+
+Mis repositorios demuestran la aplicación de la teoría a escenarios de infraestructura y seguridad reales.
+
+### 🔒 **Infraestructura Segura y Hardening**
+* **AD DS & GPO Implementation:** Diseño e implementación de un dominio completo, incluyendo jerarquía de OUs, creación de grupos de seguridad y aplicación de políticas críticas (e.g., Bloqueo de USB).
+* **Hardening de Servidores Linux (RHEL 9):** Documentación del proceso para asegurar servidores. Incluye automatización de actualizaciones, configuración de SELinux y políticas de firewall avanzadas.
+
+### 📡 **Laboratorio de Segmentación de Red (Cisco)**
+* Implementación de **Router-on-a-stick** para la segmentación eficiente del tráfico (VLANs) en un entorno de múltiples subredes. Configuración de servicios de red (DHCP).
+
+### 🛡️ **Monitoreo de Seguridad con SIEM (Wazuh)**
+* Configuración de la plataforma SIEM. Despliegue de agentes en Windows/Linux, creación de reglas de detección personalizadas y diseño de dashboards para análisis de eventos y alertas.
+
+### ☁️ **Seguridad y Cumplimiento en AWS**
+* Documentación de la configuración de roles y políticas de **IAM** (Principio de Privilegio Mínimo), y configuración de **AWS WAF** para proteger aplicaciones web.
 
 ---
 
-<h3 align="center">⭐ Gracias por visitar mi perfil. Nuevos proyectos pronto.</h3>
+## 📬 Conéctate Conmigo
+
+Estoy siempre abierto a discutir proyectos de tecnología, ciberseguridad y automatización.
+
+| Plataforma | Enlace |
+| :--- | :--- |
+| **LinkedIn** | [Tu Link Aquí] |
+| **Email** | [Tu Correo Electrónico Aquí] |
+
+<h4 align="center">Actualmente buscando oportunidades para aplicar mis conocimientos de infraestructura y Blue Team. ¡Gracias por visitar!</h4>
 
 
 
