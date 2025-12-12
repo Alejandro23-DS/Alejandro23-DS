@@ -5,14 +5,14 @@
 
 ## 🧑‍💻 Resumen Ejecutivo
 
-Soy egresado de Ingeniería de Ciberseguridad con **experiencia práctica** en la **administración de infraestructuras críticas** y la **defensa proactiva (Blue Team)**.
+Soy egresado de Ingeniería de Ciberseguridad con experiencia práctica en la administración de infraestructuras críticas y la defensa proactiva (Blue Team).
 
 Durante mis prácticas profesionales, he aplicado soluciones reales en:
 * **Hardening y Administración de Sistemas** (Windows Server y Linux).
 * **Seguridad Perimetral y Monitoreo (SIEM).**
 * **Diseño e Implementación de Redes (Cisco / MikroTik).**
 
-Mi enfoque se centra en **automatizar tareas** (Python/PowerShell) y documentar proyectos de infraestructura para garantizar la **mantenibilidad y escalabilidad** de los sistemas.
+Mi enfoque se centra en automatizar tareas (Python/PowerShell) y documentar proyectos de infraestructura para garantizar la mantenibilidad y escalabilidad de los sistemas.
 
 ---
 
@@ -55,7 +55,7 @@ Mis repositorios demuestran la aplicación de la teoría a escenarios de infraes
 * Configuración de la plataforma SIEM. Despliegue de agentes en Windows/Linux, creación de reglas de detección personalizadas y diseño de dashboards para análisis de eventos y alertas.
 
 ### ☁️ **Seguridad y Cumplimiento en AWS**
-* Documentación de la configuración de roles y políticas de **IAM** (Principio de Privilegio Mínimo), y configuración de **AWS WAF** para proteger aplicaciones web.
+* Documentación de la configuración de roles y políticas de *IAM* (Principio de Privilegio Mínimo), y configuración de *AWS WAF* para proteger aplicaciones web.
 
 ---
 
@@ -68,7 +68,7 @@ Estoy siempre abierto a discutir proyectos de tecnología, ciberseguridad y auto
 | **LinkedIn** | [Tu Link Aquí] |
 | **Email** | [Tu Correo Electrónico Aquí] |
 
-<h4 align="center">Actualmente buscando oportunidades para aplicar mis conocimientos de infraestructura y Blue Team. ¡Gracias por visitar!</h4>
+
 
 
 
